@@ -55,9 +55,6 @@ export async function generateBio(
 
   const {
     object: data,
-    warnings,
-    finishReason,
-    rawResponse,
   } = await generateObject({
     model: groq(model),
     system: systemPrompt,
