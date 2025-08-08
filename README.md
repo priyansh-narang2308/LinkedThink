@@ -11,7 +11,6 @@ Simply paste your post or profile details, and LinkedThink instantly creates **4
 
 ## 🛠 Tech Stack
 - **Frontend:** React / Next.js
-- **Backend:** Node.js / Express
 - **AI Engine:** GROQ API
 
 ## 🚀 How It Works
