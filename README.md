@@ -21,7 +21,7 @@ Simply paste your post or profile details, and LinkedThink instantly creates **4
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/linkedthink.git
+git clone https://github.com/priyansh-narang2308/LinkedThink
 cd linkedthink
 npm install
 npm run dev
